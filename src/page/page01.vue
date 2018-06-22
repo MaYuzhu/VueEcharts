@@ -279,6 +279,7 @@
           }],
           series: [{
             type: 'line',
+            //type: 'gauge',
             name: '降雨量',
             barMinHeight: '1',
             itemStyle: {
